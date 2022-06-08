@@ -7,7 +7,6 @@ import lombok.Setter;
 import lombok.ToString;
 
 
-/**Model class for the business details*/
 @Getter
 @Setter
 @ToString
